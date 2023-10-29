@@ -21,5 +21,5 @@ def extract_exif_info(image_path):
 
 
 if __name__ == "__main__":
-    image_path = "/Users/buddha/Desktop/Jaipur_Pushkar/IMG_2661.JPG"
+    image_path = "/Users/buddha/Desktop/correct_date/IMG_0844.JPG"
     extract_exif_info(image_path)

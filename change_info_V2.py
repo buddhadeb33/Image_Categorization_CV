@@ -58,7 +58,7 @@ def process_images_in_folder(folder_path, new_datetime):
 
 if __name__ == "__main__":
     # image_path = "/Users/buddha/Desktop/Jaipur_Pushkar/IMG_2661.JPG"
-    new_datetime = "2023-08-13 12:10:00"
+    new_datetime = "2023-02-12 12:10:00"
     # modify_exif_datetime(image_path, new_datetime)
-    folder_path = "/Users/buddha/Desktop/Jaipur_Pushkar"
+    folder_path = "/Users/buddha/Downloads/correct_date"
     process_images_in_folder(folder_path, new_datetime)
